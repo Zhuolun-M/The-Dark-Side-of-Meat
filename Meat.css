@@ -1,0 +1,17 @@
+
+body{background-image: url('https://www.crushpixel.com/big-static14/preview4/vanilla-ice-cream-texture-1746838.jpg'); 
+	color: black; 
+	margin:30px; 
+	margin-top: -30px; 
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: cover; }
+h1, h2, h3, h4, h5, h6 {text-shadow: 5px 5px 5px #ccc;}
+.heading {text-align:center;}
+.website-body > div{background-color: White; padding: 10px;}
+.website-body {display:grid; grid-template-columns: 15% 70% 15%; grid-gap: 10px; }
+div {box-shadow: 5px 5px 5px #ccc;}
+li{padding:5px}
+ul{list-style: none;}
+a{padding:5px; text-decoration: none; color: black; background-color: #E0E0E0;}
+a:hover{padding: 8px; color: white; background-color: black;}
